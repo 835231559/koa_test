@@ -1,0 +1,22 @@
+{
+  "name": "koa_test",
+  "version": "1.0.0",
+  "description": "This is a koa web APP test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/835231559/koa_test.git"
+  },
+  "author": "SOG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/835231559/koa_test/issues"
+  },
+  "homepage": "https://github.com/835231559/koa_test#readme",
+  "dependencies": {
+    "koa": "^2.5.1"
+  }
+}
